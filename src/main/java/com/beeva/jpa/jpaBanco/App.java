@@ -16,6 +16,7 @@ public class App
         ap.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 	System.out.println("HOLA DESDE GIT W10");
+	System.out.println("HOLA DESDE GIT HUB");
 	    	
     }
 }
